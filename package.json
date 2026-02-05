@@ -142,7 +142,7 @@
     "request-promise": "^4.2.4",
     "rimraf": "^2.6.3",
     "scheduler": "^0.0.0-50b50c26f",
-    "semver": "^5.5.1",
+    "semver": "^5.7.2",
     "style-loader": "^0.23.1",
     "web-ext": "^3.0.0",
     "webpack": "^4.26.0",
