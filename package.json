@@ -70,7 +70,7 @@
     "**/*.js": "eslint --max-warnings 0"
   },
   "dependencies": {
-    "@babel/core": "^7.1.6",
+    "@babel/core": "^7.29.6",
     "@babel/plugin-proposal-class-properties": "^7.1.0",
     "@babel/plugin-transform-flow-strip-types": "^7.1.6",
     "@babel/plugin-transform-react-jsx-source": "^7.2.0",
